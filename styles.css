@@ -1,17 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
-
 body, html {
     margin: 0;
     padding: 10px;
-    background:skyblue;
-    color: rgb(176, 176, 176);
+    background:rgb(193, 231, 246);
+    color: rgb(136, 131, 131);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 img {
     width: 30%;
     border-radius: 40px;
-    border: 4px solid rgb(176, 176, 176);
+    border: 4px solid rgb(136, 131, 131);
 }
 
 a {
@@ -26,11 +24,6 @@ input {
     padding: 4px 8px;
     border-width: 1px; 
     border-style: solid;
-    border-color:  var(--text);
-    color: var(--text);
-    background: none;
-    border-radius: var(--image);
-    font-family: var(--font);
 }
 
 button {
@@ -48,13 +41,13 @@ button {
 }
 
 .h1 {
-    font-family: 'Pacifico', cursive;
+    font-family: Lucida Calligraphy, cursive;
     font-size: 70px;
     color: navy;
 }
 
 .h2 {
-    font-family: 'Pacifico', cursive;
+    font-family: Lucida Calligraphy, cursive;
     font-size: 40px;
     color: navy;
 }
